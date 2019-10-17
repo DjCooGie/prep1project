@@ -5,13 +5,13 @@ html {
 }
 
 body {
-  margin: 5%;
+  margin:5px;
   text-align: center;
   box-shadow: 5px 5px 5px 5px;
  }
 
 .main {
-  background-color: bisque;
+  background-color: #F3EFE0;
 }
 
 
