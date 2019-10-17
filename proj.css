@@ -46,14 +46,21 @@ nav > ul > li > a:hover {
   box-shadow: 2px 5px bisque;
 }
 
-img {
+#home >img {
   border-radius: 47%;
   height: 250px;
   width: 210px;
   border: 3px dotted whitesmoke;
 }
 
+#projects {
+  background-color: whitesmoke;
+}
 
+#projects > a > img {
+  width: 95%;
+  height: 600px;
+}
 
 
 
