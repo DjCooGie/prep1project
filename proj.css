@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Dancing+Script&display=swap');
 
 html {
-  background-color: whitesmoke;
+  background-color: transparent;
 }
 
 body {
@@ -66,10 +66,10 @@ nav > ul > li > a:hover {
 }
 
 #projects > a > img {
-  width: 95%;
-  height: 600px;
-  border-radius: 60px;
-  box-shadow: 5px 9px ;
+  width: 35%;
+  height: 400px;
+  border-radius: 50px;
+  box-shadow: 5px 9px white ;
 }
 
 #projects > ul {
@@ -102,6 +102,7 @@ p {
 
 footer {
   background-color: gray;
+  padding: 2px;
 }
 
 #contacts {
@@ -113,6 +114,19 @@ footer {
   justify-content: space-around;
 }
 
+#common {
+  background-color: rgb(180, 151, 151);
+  height: 200px;
+  width: 300px;
+  padding: 2vh;
+  border-radius: 15%;
+  box-shadow: 5px 5px;
+}
+
+#common h4 {
+  text-decoration: underline;
+  font-size: 25px;
+}
 
 
 
