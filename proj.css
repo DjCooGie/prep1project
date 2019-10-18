@@ -72,6 +72,14 @@ nav > ul > li > a:hover {
   box-shadow: 5px 9px ;
 }
 
+#projects > ul {
+  margin-left: 40%;
+}
+
+#projects > ul > li {
+  text-align: justify;
+}
+
 p {
   font-size: 20px;
 }
