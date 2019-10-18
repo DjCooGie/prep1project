@@ -108,6 +108,13 @@ footer {
   background-color: rgb(68, 58, 58);
 }
 
+.social {
+  display: flex;
+  justify-content: space-around;
+}
+
+
+
 
 
 
