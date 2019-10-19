@@ -11,8 +11,8 @@ This website offers my _personal_ information to anyone in need to know more abo
 1. HTML
 2. CSS
 
-#### Overview
-![Live-link](https://djcoogie.github.io/prep1project/)
+#### Live link
+https://djcoogie.github.io/prep1project/
 
 ### Portfolio 
 ![1](images/3.jpg)
