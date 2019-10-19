@@ -56,6 +56,10 @@ nav > ul > li > a:hover {
   border: 3px dotted whitesmoke;
 }
 
+#home > h1 {
+  font-family: 'Oleo Script', cursive;
+}
+
 #projects {
   background-color: whitesmoke;
 }
