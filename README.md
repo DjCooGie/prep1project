@@ -14,6 +14,9 @@ This website offers my _personal_ information to anyone in need to know more abo
 #### Live link
 https://djcoogie.github.io/prep1project/
 
+#### Licence
+MIT Licence
+
 ### Portfolio 
 ![1](images/3.jpg)
 
