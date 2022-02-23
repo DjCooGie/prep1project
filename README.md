@@ -2,7 +2,7 @@
 My Portfolio
 
 ## Author
-Evans Nyambane
+Evans Onchagwa
 
 ### Description
 This website offers my _personal_ information to anyone in need to know more about me and my work.
