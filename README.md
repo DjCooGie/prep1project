@@ -12,7 +12,7 @@ This website offers my _personal_ information to anyone in need to know more abo
 2. CSS
 
 #### Live link
-https://djcoogie.github.io/prep1project/
+https://jusinam.github.io/prep1project/
 
 #### Licence
 MIT Licence
